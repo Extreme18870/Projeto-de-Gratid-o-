@@ -2,6 +2,7 @@
 Disciplina: Desenvolvimento de Sistemas (DS-SENAI) e Inglês.
 Professores: Antônio Tupinamba (Senai); Leandro Grosso (Senai); Flávia Viana (Inglês).
 Atividade: Realizar um projeto da temática GRATIDÃO com FrontEnd (Html, Css e Script) e BackEnd (Servidor, Banco de Dados, MVC, CRUD).
+OBS:É nessesario para o site funcionar direito o sql linkado, não consegui subir o site por ser pago site.
 
 # Grupo 3
 * Laura Betti - N°14 (@LauraBetti)
